@@ -1,19 +1,11 @@
 # erYa
-超星尔雅爬虫，通过courseId，爬取完整的题目。 - python实践
 
----
-title: python第一次爬虫实践 原生爬尔雅题目
-tags:
-  - python
-  - 实战笔记
-date: 2018-08-15 18:04:38
-categories: 实战开发
----
 #### 前言
 啦啦啦，经过3天的python学习，是时候实践一番了，将以前写的爬尔雅题库的`易语言`转成python代码，算是完全重写。
 > 通过尔雅课程的courseId，获取科目课程的所有题目。（不含答案，不含sql，纯原生爬取，输出代码）
 
 ![运行截图]](https://i.loli.net/2018/08/15/5b7403d689e17.png)
+
 
 #### 爬取步骤：
 > [尔雅课程地址：http://erya.mooc.chaoxing.com/courses](http://erya.mooc.chaoxing.com/courses)
